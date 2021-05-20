@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cf1"
+        android:title="Cafe1"
+        android:icon="@drawable/abc_vector_test"/>
+    <item
+        android:id="@+id/cf2"
+        android:title="Cafe2"
+        android:icon="@drawable/abc_vector_test"/>
+    <item
+        android:id="@+id/cf3"
+        android:title="Cafe4"
+        android:icon="@drawable/abc_vector_test"/>
+</menu>
